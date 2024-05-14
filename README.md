@@ -1,2 +1,2 @@
 # Advanced-E-commerce-Recommender-System
-The goal is to leverage state-of-the-art techniques to provide personalized product recommendations that enhance user experience and drive engagement. 
+aims to leverage the capabilities of the T5 (Text-To-Text Transfer Transformer) model to develop an innovative and adaptive recommendation engine for e-commerce platforms.
